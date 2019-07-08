@@ -18,10 +18,10 @@ This is a node application that will create a text file of the perfomance of stu
 
 ## Running the Program
 
-1. Open a terminal while and go to root of the project
+1. Open a terminal and navigate to the root of the project
 1. To see the tests, run `npm test`
 1. To generate report cards, run `npm start`
-1. Text file containing report cards will be in `reportcards/reportcards.text`
+1. Text file containing report cards will be in `reportcards/reportcards.txt`
 
 ## Built With
 
